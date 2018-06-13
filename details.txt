@@ -1,3 +1,20 @@
+
+Develop an ASP.NET Core 2 and EF Core 2 App in a Day
+Level: Intermediate
+
+Interested in ASP.NET Core 2.x and Entity Framework Core 2.x, but not sure where to start? Start here with an all-day Hands on Lab where you will build a complete solution using the latest development technology from Microsoft. Using Visual Studio 2017 (15.7 or greater) and .NET Core 2.1, you will build a data access library using Entity Framework Core, complete with repos and migrations. Next, you will build a ASP.NET Core web application, leveraging all of the latest that ASP.NET Core has to offer, including Tag Helpers, View Components, Dependency Injection, and more!
+
+You will learn:
+
+The new project structure for .NET Core 2.x Apps 
+Creating a data access layer with Entity Framework Core 2.x 
+Initializing data for testing with EF Core 2.x 
+Building a website with ASP.NET Core 2.x 
+Configuring the HTTP pipeline and routing 
+Using and creating Tag Helpers 
+Creating and using View Components 
+Leveraging Dependency Injection
+
 LAPTOP REQUIREMENTS:
 
 You must provide your own laptop computer for this hands-on lab.
