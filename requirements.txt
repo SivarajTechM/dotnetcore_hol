@@ -1,0 +1,8 @@
+LAPTOP REQUIREMENTS:
+
+You must provide your own laptop computer for this hands-on lab.
+You will need to have Visual Studio 2017 version 15.7+ installed (any edition). Visual Studio 2017 15.7+ Community Edition can be downloaded from https://www.visualstudio.com/downloads/. When installing, make sure to select the "ASP.NET and web development” and “.NET Core cross-platform development" workloads.
+You will need to install the x64 versions of the SDK and Runtime (2.1.300). They can be downloaded from https://www.microsoft.com/net/download/core. Confirm the install by opening a command prompt, enter "dotnet --version" (without the quotes) - you should see 2.1.300. Note: The trailing zeros (0) are required. Confirm the runtime by typing "dontnet --list-runtimes" (without the quotes) and look for "2.1.0".
+You also will need to have SQL Server Express 2014 or later. Visual Studio 2017 15.7 installs SQL Server Express LocalDb by default, and this is perfect for this HOL. If you need to install SQL Server Express you can install from here: https://msdn.microsoft.com/en-us/library/hh510202.aspx.
+Optionally, install SQL Server Management Studio (SSMS) installed. SSMS can be installed from the SQL Server 2016 Express installer, located here: https://msdn.microsoft.com/en-us/library/hh510202.aspx.
+Finally, you need to download the starter files and Lab documents for this HOL, located in https://github.com/skimedic/dotnetcore_hol/tree/master/2.1.
